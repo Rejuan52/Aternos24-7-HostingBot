@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Rejuan.aternos.me",
-    "port": 23071,
+    "ip": "rjrejuan.aternos.me",
+    "port":23071,
     "version": "",
     "try-creative": false
   },
